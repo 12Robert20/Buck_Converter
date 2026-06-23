@@ -905,6 +905,16 @@
 		)
 		(uuid "be0661b2-54d2-402c-a992-148c93d751d8")
 	)
+	(text "Daca am nevoie de Vin la o tensiune mai mare(V) am nevoie de un alt chip(U2) "
+		(exclude_from_sim no)
+		(at 150.622 73.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ccbfee33-34cc-48b9-bb2f-eb065b99e7e3")
+	)
 	(junction
 		(at 172.72 100.33)
 		(diameter 0)
